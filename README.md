@@ -4,3 +4,4 @@ tu su ovce
 a vovo nece aaaaaaaaaaaaaa
 popopopopopoop
 oce!!!!!!!!!!!!!!!!!!!!
+portable test
